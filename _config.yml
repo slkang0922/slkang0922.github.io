@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof. Song-Lak Kang"
+  name             : "Dr. Song-Lak Kang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Atmospheric Scientists"
-  location         : "Gangneung-si, Gangwon-do, South Korea"
-  email            :
+  bio              : "Prof. of Atmospheric Science"
+  location         : "Gangneung, South Korea"
+  email            :slkang@gwnu.ac.kr
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
